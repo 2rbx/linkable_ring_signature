@@ -11,6 +11,8 @@
 
 
 /* THINGS TO DO:
+ * implement keygen
+ * make different files for each realisation
  * make a struct for signatures
  * possibly refactor for r != 2 
  */
